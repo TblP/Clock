@@ -13,3 +13,5 @@
 Пример работы:
 ![alt text](https://github.com/TblP/Clock/tree/main/img/2.jpg)
 
+![This is an image](https://github.com/TblP/Clock/tree/main/img/1.jpg)
+
