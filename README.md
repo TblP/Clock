@@ -16,7 +16,7 @@
   <img src="img/move.gif" alt="animated" />
 </p>
 
-![alt text](https://github.com/TblP/Clock/tree/main/img/2.jpg)
+![alt text](img src="img/1.jpg")
 
-![This is an image](https://github.com/TblP/Clock/tree/main/img/1.jpg)
+![alt text](img src="img/2.jpg")
 
