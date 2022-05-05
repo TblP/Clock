@@ -16,7 +16,7 @@
   <img src="img/move.gif" alt="animated" />
 </p>
 
-![alt text](img src="img/1.jpg")
-
-![alt text](img src="img/2.jpg")
+<p align="center">
+  <img src="img/1.jpg"/>
+</p>
 
