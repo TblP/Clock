@@ -12,14 +12,17 @@
 
 Пример работы:
 
+## GIF
 <p align="center">
   <img src="img/move.gif" alt="animated" />
 </p>
 
+## LandScape
 <p align="center">
   <img src="img/1.jpg"/>
 </p>
 
+## Portrait
 <p align="center">
   <img src="img/2.jpg"/>
 </p>
