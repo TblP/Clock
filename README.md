@@ -11,6 +11,11 @@
 5.Пользователь может установить один будильник, как задав время путем ввода числовых значений, так и перетаскиванием стрелок. Будильник может быть только один.
 
 Пример работы:
+
+<p align="center">
+  <img src="img/move.gif" alt="animated" />
+</p>
+
 ![alt text](https://github.com/TblP/Clock/tree/main/img/2.jpg)
 
 ![This is an image](https://github.com/TblP/Clock/tree/main/img/1.jpg)
